@@ -15,9 +15,9 @@ Python library for Persian text preprocessing.
 ##requirements
 
 + [NLTK](http://nltk.org/) compatible
-+ Python 2.7 support
++ Python 3.10 support
 + libwapiti>=0.2.1 (if speed is an important factor)
-+ nltk>=3.2.2
++ nltk>=3.6.5
 
 
 ## Usage
@@ -107,3 +107,12 @@ The latest version can be installed through `pip`:
 	To use the spell checker module download it's resources from
 	https://www.dropbox.com/s/tlyvnzv1ha9y1kl/spell.zip?dl=0
 	and after extraction copy the spell/ directory to parsivar/resource.
+
+
+## Build WHL file
+### Install Python Wheel Packages
+	pip install wheel
+
+
+### Create & Verify Wheel File
+	python setup.py bdist_wheel

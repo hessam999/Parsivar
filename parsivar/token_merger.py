@@ -1,7 +1,7 @@
 import nltk
 from nltk.chunk import conlltags2tree, tree2conlltags
 #from sklearn.model_selection import train_test_split
-from collections import Iterable
+from collections.abc import Iterable
 from nltk import ChunkParserI, ClassifierBasedTagger
 
 
