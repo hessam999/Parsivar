@@ -9,6 +9,7 @@ parsivar/data_helper.py
 parsivar/dependency.py
 parsivar/normalizer.py
 parsivar/postagger.py
+parsivar/spell_checker.py
 parsivar/stemmer.py
 parsivar/token_merger.py
 parsivar/tokenizer.py
@@ -25,8 +26,6 @@ parsivar/resource/dependency_parser/lib/log4j.jar
 parsivar/resource/normalizer/Dic1_new.txt
 parsivar/resource/normalizer/Dic2_new.txt
 parsivar/resource/normalizer/Dic3_new.txt
-parsivar/resource/postagger/NC_model
-parsivar/resource/postagger/Nmodel
 parsivar/resource/postagger/UPC_full_model_wapiti
 parsivar/resource/postagger/stanford-postagger.jar
 parsivar/resource/stemmer/mokasar.txt

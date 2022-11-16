@@ -1,12 +1,14 @@
-Metadata-Version: 1.2
+Metadata-Version: 2.1
 Name: parsivar
-Version: 0.1.4
+Version: 0.2.4
 Summary: Python library for preprocessing Persian text.
 Home-page: UNKNOWN
 Author: ICT
-Author-email: UNKNOWN
+Author-email: 
 License: UNKNOWN
-Description-Content-Type: UNKNOWN
-Description: UNKNOWN
 Platform: UNKNOWN
 Requires-Python: >=3.3
+License-File: LICENSE.txt
+
+UNKNOWN
+
