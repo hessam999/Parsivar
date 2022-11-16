@@ -116,3 +116,6 @@ The latest version can be installed through `pip`:
 
 ### Create & Verify Wheel File
 	python setup.py bdist_wheel
+
+### Install whl file on your python 3
+	pip3 install dist/parsivar-0.2.4-py3-none-any.whl --force-reinstall
