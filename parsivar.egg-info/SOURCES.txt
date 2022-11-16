@@ -28,6 +28,8 @@ parsivar/resource/normalizer/Dic2_new.txt
 parsivar/resource/normalizer/Dic3_new.txt
 parsivar/resource/postagger/UPC_full_model_wapiti
 parsivar/resource/postagger/stanford-postagger.jar
+parsivar/resource/spell/mybigram_lm.pckl
+parsivar/resource/spell/onegram.pckl
 parsivar/resource/stemmer/mokasar.txt
 parsivar/resource/stemmer/pasvand.txt
 parsivar/resource/stemmer/pishvand.txt
